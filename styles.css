@@ -4,7 +4,9 @@
 	background-color:rgba(0, 0, 0, 0);
 	color:white;
 }
-
+th{
+	background-color:rgba(0, 0, 0, 0);
+}
 table{
 /* 	height:100px; */
 	width:100%;
